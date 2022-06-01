@@ -1,1 +1,15 @@
-
+Requirements: RQ1
+Bug ID: test1
+Aim:  Check of correct output values in the filter the year of manufacture
+Date:31.05 
+Tester:Katerina Bugaeva
+Environment:PC,Window 10, Google Chrome Version 102.0.5005.61
+Steps
+Step1 Open the website https://www.avito.ru
+Step2 Choose the section Cars
+Step3 Set the filter the year of manufacture 1960
+Actual result:   The search result shows cars with the year of manufacture: 1960.
+Expected result:The search result shows cars with the year of manufacture: 1942 -1960
+Severity: Major
+Status:Open
+Priority:Medium
